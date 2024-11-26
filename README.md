@@ -7,9 +7,9 @@ This project focuses on predicting car prices based on their features using a Li
   
 2. Model Training and Evaluation:
 - Trains a Linear Regression model and evaluates its performance using:
-1. Mean Absolute Error (MAE)
-2. Mean Squared Error (MSE)
-3. R² Score
+  Mean Absolute Error (MAE)
+  Mean Squared Error (MSE)
+  R² Score
    
 3. Prediction Functionality:
 - Predicts the price of a car based on its features, allowing for real-world applicability.
